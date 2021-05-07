@@ -1,5 +1,8 @@
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/AsmSafone)](https://github.com/AsmSafone)
-![Safone Github stats](https://github-readme-stats.vercel.app/api?username=AsmSafone&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <a href="https://t.me/AsmSafone"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+    </p>
 <h3>
     
 ```python
