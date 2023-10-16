@@ -39,3 +39,5 @@ print("Hola! Welcome To Safone's World !! 😎")
 
 ```
 </h3>
+
+[![An image of @asmsafone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asmsafone)](https://holopin.io/@asmsafone)
