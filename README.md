@@ -15,7 +15,7 @@
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=AsmSafone&theme=tokyonight&card_height=205"
+        src="https://git-streak-stats-beta.vercel.app/?user=AsmSafone&theme=tokyonight&card_height=205"
     />
 </p>
 <img
